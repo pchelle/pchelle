@@ -4,6 +4,8 @@
 
 ## 📊 Repository Statistics
 
+> 💡 **Preview Links**: Open [PREVIEW.html](./PREVIEW.html) in your browser to preview all statistics badges and verify the links are working.
+
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pchelle&layout=compact&hide_border=true&theme=default)
 
