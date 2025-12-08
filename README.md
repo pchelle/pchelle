@@ -4,15 +4,14 @@
 
 ## 📊 Repository Statistics
 
-### Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pchelle&layout=compact)
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pchelle&layout=compact&hide_border=true&theme=default)
 
-### Contributions Per Year
-- **2024**: 1 contribution
-- **2025**: 1 contribution
+### GitHub Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pchelle&hide_border=true)
 
-### Total Commits
-- Total: 2 commits across all repositories
+### Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pchelle&theme=github-compact)
 
 <!--
 **pchelle/pchelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
